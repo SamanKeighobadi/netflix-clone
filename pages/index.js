@@ -3,6 +3,7 @@ import Download from "../components/Download";
 import Everywhere from "../components/Everywhere";
 import Kids from "../components/Kids";
 import Main from "../components/Main";
+import Questions from "../components/Questions";
 import Tv from "../components/TV";
 
 export default function Home() {
@@ -18,6 +19,7 @@ export default function Home() {
       <Download />
       <Everywhere />
       <Kids />
+      <Questions />
     </div>
   );
 }
