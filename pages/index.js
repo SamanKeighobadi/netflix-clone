@@ -1,5 +1,5 @@
 import Head from 'next/head'
-import Navbar from '../components/NavBar'
+import Main from '../components/Main'
 
 export default function Home() {
   return (
@@ -8,13 +8,10 @@ export default function Home() {
         <title>Netflix Clone</title>
         <link rel="icon" href="/netflix.ico" />
       </Head>
-      <Navbar />
 
+      <Main />
 
-
-      <h1>
-        Hello Netflix
-      </h1>
+      
     </div>
   )
 }
