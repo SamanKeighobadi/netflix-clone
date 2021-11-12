@@ -64,6 +64,7 @@ const Footer = () => {
                     </li>
                 </ul>
             </div>
+            
                 <div className='text-center pb-4 text-gray-600'>
                     <p>
                         Powered by : saman.keighobadi@gmail.com - 2021
