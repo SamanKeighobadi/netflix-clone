@@ -10,6 +10,8 @@ const Questions = () => {
       setShow(prevState => !prevState)
   }
 
+
+  
   return (
     <div className="border-b-8 border-gray-700 bg-gray-900">
       <div className="text-center justify-center items-center flex flex-col   py-11">
