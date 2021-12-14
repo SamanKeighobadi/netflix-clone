@@ -14,7 +14,8 @@ const Kids = () => {
             made just for them—free with your membership.
           </p>
         </div>
-        
+           
+           
       </div>      
     </div>
   );
